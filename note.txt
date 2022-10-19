@@ -1,0 +1,20 @@
+best so far: SVR(C=10, gamma=0.001, kernel='rbf',epsilon=0.01)
+
+(data.json, default hyperparams)
+    train: 0.40498985959140943
+    test: 0.4022533339640414
+
+(data.sjon, C=10, gamma=0.001,kernel='rbf')
+    train: 0.821761600163483
+    test: 0.5911804430040251
+
+(data_cropped.json, C=10, gamma=0.001,kernel='rbf')
+    train: 0.8243031292296491
+    test: 0.6443534025004387
+
+(data_cropped_split.json, C=10, gamma=0.001,kernel='rbf')
+    train: 0.821762838472994
+    test: 0.6915396350017244
+
+keyword: Machine-Learning, SVM, Regression, Imaging, Deblurring
+helsinki deblur challenge

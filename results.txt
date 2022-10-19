@@ -1,0 +1,4 @@
+data: 0.40858337318057236
+data_cropped: 0.5233217707761271
+data_cropped_split: 0.5693949783244232
+data_cropped_split_optimized: 0.6755069785884652
